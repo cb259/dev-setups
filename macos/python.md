@@ -1,7 +1,9 @@
 # MacOS Python Virtual Environments
 ## Context
 This was written in November of 2022 using macOS Ventura 13.0 22A380 and Python version 3.10.8
-Reference: https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
+
+## References
+* [https://sourabhbajaj.com/mac-setup/Python/virtualenv.html](Python Virtualenv)
 
 ## Assumptions
 * Homebrew is already installed
